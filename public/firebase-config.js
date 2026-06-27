@@ -2,13 +2,13 @@
 // Replace this with your actual Firebase config from Firebase Console
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID",
-  measurementId: "YOUR_MEASUREMENT_ID"
+  apiKey: "AIzaSyDqeczswMxOarg1NXMWulUk-LbIO6HRLFM",
+  authDomain: "life-organizer-f933c.firebaseapp.com",
+  projectId: "life-organizer-f933c",
+  storageBucket: "life-organizer-f933c.firebasestorage.app",
+  messagingSenderId: "731812534310",
+  appId: "1:731812534310:web:e31d9590ad73176a8daee7",
+  measurementId: "G-7YT97HTQJT"
 };
 
 // Initialize Firebase
